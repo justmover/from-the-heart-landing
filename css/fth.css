@@ -1,0 +1,31 @@
+.navbar-nav {
+    font-size: x-large;
+}
+
+.course {
+    color: white;
+}
+
+.course div {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.course ul {
+    width: fit-content;
+}
+
+.font-x-large {
+    font-size: x-large;
+}
+
+.none-list-style {
+    list-style: none;
+}
+
+.course h4,
+h5,
+li,
+a {
+    color: white;
+}
